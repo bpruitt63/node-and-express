@@ -1,0 +1,14 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "markov project",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brian",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
